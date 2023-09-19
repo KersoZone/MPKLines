@@ -8,5 +8,5 @@ it's quite simpe
 4.Enjoy!
 # Info
 Something not working?
-Send messages about bugs on this e-mail:
+Send messages about bugs to this e-mail:
 # kerso@kersozone.pl
